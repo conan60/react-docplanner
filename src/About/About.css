@@ -1,0 +1,22 @@
+/* About Section Style */
+#about .row .about>p{
+    color: hsla(0,0%,100%,.7);
+}
+#about .footer-about{
+    margin: 50px 0;
+}
+#about .footer-about .col-md-9 li{
+    margin-bottom : 20px;
+}
+#about .row .about{
+    border-radius: 10px;
+    padding : 20px;
+    height: 480px;
+}
+#about svg{
+    fill : #c4c4c4;
+    height: 20px;
+}
+#about svg:hover{
+    fill : #00b39b;
+}

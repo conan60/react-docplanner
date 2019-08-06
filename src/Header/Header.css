@@ -1,0 +1,19 @@
+/* Header Navbar Style */
+#header-nav{
+    position: sticky;
+    top : 0;
+    background-color : white;
+    z-index: 1;
+}
+#logo-header{
+    width : 200px;
+}
+#basic-navbar-nav .navbar-nav a{
+    color : #747474;
+}
+#basic-navbar-nav .navbar-nav a.active{
+    color : #00b39b;
+}
+#basic-navbar-nav .navbar-nav a:hover{
+    color : #00b39b;
+}

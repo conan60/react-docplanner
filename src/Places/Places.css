@@ -1,0 +1,27 @@
+/* Places Section Style */
+#places{
+    padding : 70px 0;
+}
+#places .col-lg-4{
+    margin-bottom : 20px;
+}
+#places h2+p.gray.small{
+    margin-top : 30px;
+    margin-bottom: 60px;
+}
+#places .ville{
+    border-radius : 6px;
+    overflow: hidden;
+}
+#places .ville:hover{
+    box-shadow: 0 20px 50px 0 rgba(0,0,0,.13);
+}
+#places .ville img{
+    width : 100%;
+}
+#places .ville > div{
+    display: flex;
+    justify-content: space-around;
+    align-items : baseline;
+    padding : 10px;
+}

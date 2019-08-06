@@ -1,0 +1,16 @@
+#statistique{
+    padding : 20px;
+    background: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+}
+#statistique .col-lg-6 .row .col-md-6:nth-child(1) .stat{
+   margin-top : 20px;
+}
+#statistique .col-lg-6 .row .col-md-6:nth-child(2) .stat{
+    margin-bottom : 20px;
+ }
+.stat{
+    height: 250px;
+    padding: 20px;
+    border-radius : 5px;
+    background-color : white;
+}

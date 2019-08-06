@@ -1,0 +1,27 @@
+/* Generale Style */
+.green{
+  color : #00b39b;
+}
+.blue{
+  color : #3d83df;
+}
+.gray{
+  color : #747474;
+}
+.white{
+  color: white;
+}
+.bg-blue{
+  background-color : #3d83df;
+  background-image: url(https://www.docplanner.com/img/screen-saas@2x.png);
+  background-position: 180% 100%;
+  background-repeat: no-repeat;
+  background-size: 400px auto;
+}
+.bg-green{
+  background-color : #00b39b;
+  background-image: url(https://www.docplanner.com/img/screen-marketplace@2x.png);
+  background-position: 180% 100%;
+  background-repeat: no-repeat;
+  background-size: 400px auto;
+}
